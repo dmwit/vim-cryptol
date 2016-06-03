@@ -11,9 +11,6 @@ elseif exists("b:current_syntax")
   finish
 endif
 
-set expandtab
-set list lcs=tab:>-,trail:.
-
 " (Qualified) identifiers (no default highlighting)
 " XXX copied from Haskell
 syn match ConId "\(\<[A-Z][a-zA-Z0-9_']*\.\)\=\<[A-Z][a-zA-Z0-9_']*\>"
