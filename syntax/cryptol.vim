@@ -1,8 +1,6 @@
 " Vim syntax file
 " Language:	Cryptol
-" Maintainer:	Fergus Henderson
-" Last Change:	Thu Feb 10 13:14:24 PST 2005
-"
+" Author:	Fergus Henderson
 
 " Remove any old syntax stuff hanging around
 if version < 600
